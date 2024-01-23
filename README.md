@@ -104,9 +104,26 @@
 ## Passo a passo para o desenvolvimento do projeto
 <p>OBS: A maneira escolhida para o desenvolvimento do projeto foi a alternativa, visto que o mesmo era de baixa complexidade.</p>
 <ol>
-    <li>Primeiramente fizemos o wireframe do projeto usando o Figma definindo coisas como cores, tipografias, espaçamentos e disposição dos elementos na tela.</li>
-    <li>Na parte do código fizemos todo o HTML e instalamos a extensão Live Sass Compiler para o pré processamento do SASS, linkamos devidamente o css e ativamos a extensão com o Watch Sass, nesse momento, o pré processador já estava rodando.</li>
-    <li>Em seguida fizemos a utilização das variáveis SASS para definir elementos que se repetiam muito, esses sendo as tipografias, cores, pesos das fontes, e tamanhos.</li>
-    <li>Durante o desenvolvimento percebemos um padrão que se repetia muito ao definir o estilo das tipografias, vimos então uma oportunidade de fazer o uso dos mixins para facilitar o desenvolvimento.</li>
-    <li>O aninhamento foi uma propriedade que foi de grande utilidade durante o desenvolvimento do projeto, a maneira que os elementos ficam agrupados ajuda muito no entendimento do código.</li>
+    <li>
+        Primeiramente fizemos o wireframe do projeto usando o Figma definindo coisas como cores, tipografias, espaçamentos e disposição dos elementos na tela. 
+        ![print-figma](https://github.com/MateusBorgesGuimaraes/scss-trab/assets/104425878/19b05387-60a8-4f54-98be-bc8ab4c5c0cb)
+    </li>
+    <li>
+        Na parte do código fizemos todo o HTML e instalamos a extensão Live Sass Compiler para o pré processamento do SASS, linkamos devidamente o css e ativamos a extensão com o Watch Sass, nesse momento, o pré processador já estava rodando.
+        ![live-sass](https://github.com/MateusBorgesGuimaraes/scss-trab/assets/104425878/0fce9b4c-47ea-42d3-a2ac-58a5e2f50208)
+    </li>
+    <li>
+        Em seguida fizemos a utilização das variáveis SASS para definir elementos que se repetiam muito, esses sendo as tipografias, cores, pesos das fontes, e tamanhos.
+        ![variaveis1](https://github.com/MateusBorgesGuimaraes/scss-trab/assets/104425878/edfe8fd6-c0f7-4d9f-9197-494d7d372036)
+    </li>
+    <li>
+        Durante o desenvolvimento percebemos um padrão que se repetia muito ao definir o estilo das tipografias, vimos então uma oportunidade de fazer o uso dos mixins para facilitar o desenvolvimento.
+        ![variaveis2](https://github.com/MateusBorgesGuimaraes/scss-trab/assets/104425878/024b60f4-91a5-4bd1-8797-eaeb88d38f4f)
+    </li>
+    <li>
+        O aninhamento foi uma propriedade que foi de grande utilidade durante o desenvolvimento do projeto, a maneira que os elementos ficam agrupados ajuda muito no entendimento do código.
+        ![classe-navegacao-scss](https://github.com/MateusBorgesGuimaraes/scss-trab/assets/104425878/3fcd3843-2bcd-4a5a-bb26-5f65039c5a8d)
+    </li>
 </ol>
+
+<p>Essa foi a forma que usamos o SASS para desenvolevr o projeto.</p>
