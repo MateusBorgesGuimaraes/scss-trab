@@ -105,8 +105,8 @@
 <p>OBS: A maneira escolhida para o desenvolvimento do projeto foi a alternativa, visto que o mesmo era de baixa complexidade.</p>
 <ol>
     <li>
-        Primeiramente fizemos o wireframe do projeto usando o Figma definindo coisas como cores, tipografias, espaçamentos e disposição dos elementos na tela. 
-        ![print-figma](https://github.com/MateusBorgesGuimaraes/scss-trab/assets/104425878/19b05387-60a8-4f54-98be-bc8ab4c5c0cb)
+        Primeiramente fizemos o wireframe do projeto usando o Figma definindo coisas como cores, tipografias, espaçamentos e disposição dos elementos na tela.
+         <img alt="print-figma" src="https://github.com/MateusBorgesGuimaraes/scss-trab/assets/104425878/19b05387-60a8-4f54-98be-bc8ab4c5c0cb">
     </li>
     <li>
         Na parte do código fizemos todo o HTML e instalamos a extensão Live Sass Compiler para o pré processamento do SASS, linkamos devidamente o css e ativamos a extensão com o Watch Sass, nesse momento, o pré processador já estava rodando.
