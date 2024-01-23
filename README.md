@@ -97,6 +97,16 @@
 <p>Com o SASS instalado e configurado, você está pronto para começar a escrever seus estilos de forma mais eficiente e poderosa. Use as funcionalidades avançadas do SASS para melhorar seu fluxo de trabalho e a qualidade do seu código CSS.</p>
 <p>Para mais informações sobre como usar o SASS, consulte a documentação oficial.</p>
 
-<h3>Outra forma de configurar</h3> 
+<h3>Maneira Alternativa</h3> 
 
 <p>Uma outra maneira de configurar o SASS é seguir o Passo a Passo do vídeo a seguir: (https://youtu.be/YIEOpKYA9yc?si=KKa45uG5Xk1d9od2). </p>
+
+## Passo a passo para o desenvolvimento do projeto
+<p>OBS: A maneira escolhida para o desenvolvimento do projeto foi a alternativa, visto que o mesmo era de baixa complexidade.</p>
+<ol>
+    <li>Primeiramente fizemos o wireframe do projeto usando o Figma definindo coisas como cores, tipografias, espaçamentos e disposição dos elementos na tela.</li>
+    <li>Na parte do código fizemos todo o HTML e instalamos a extensão Live Sass Compiler para o pré processamento do SASS, linkamos devidamente o css e ativamos a extensão com o Watch Sass, nesse momento, o pré processador já estava rodando.</li>
+    <li>Em seguida fizemos a utilização das variáveis SASS para definir elementos que se repetiam muito, esses sendo as tipografias, cores, pesos das fontes, e tamanhos.</li>
+    <li>Durante o desenvolvimento percebemos um padrão que se repetia muito ao definir o estilo das tipografias, vimos então uma oportunidade de fazer o uso dos mixins para facilitar o desenvolvimento.</li>
+    <li>O aninhamento foi uma propriedade que foi de grande utilidade durante o desenvolvimento do projeto, a maneira que os elementos ficam agrupados ajuda muito no entendimento do código.</li>
+</ol>
